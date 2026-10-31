@@ -95,7 +95,7 @@ export default function App() {
             <span className="font-semibold text-[#e6f9e8]">
               ganhos de até 100%
             </span>{' '}
-            no mercado de forma imediata (dois cliques faz a entrada e em menos
+            no mercado de forma imediata (dois cliques faz a entrada - em menos
             de 3 minutos seu investimento é multiplicado)
           </h3>
 
